@@ -18,11 +18,11 @@ Tabelas:
 
 ![alt text](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/master/Cadastro2.PNG)
 
-![alt text](https://github.com/jackaw/Forum-em-PHP/blob/master/Forum3.png?raw=true)
+![alt text](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/master/Forum3.PNG)
 
-![alt text](https://github.com/jackaw/Forum-em-PHP/blob/master/T%C3%B3pico4.png?raw=true)
+![alt text](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/master/T%C3%B3pico4.PNG)
 
-![alt text](https://github.com/jackaw/Forum-em-PHP/blob/master/T%C3%B3pico5.png?raw=true)
+![alt text](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/master/T%C3%B3pico5.PNG)
 
-![alt text](https://github.com/jackaw/Forum-em-PHP/blob/master/T%C3%B3pico6.png?raw=true)
+![alt text](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/master/T%C3%B3pico6.PNG)
 
