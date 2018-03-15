@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="forum.css" />
+<script type="text/javascript" src="java.js" charset="ISO-8859"></script>
+ <title>Cadastro</title>
+</head>
+<body>
+      <h1>Cadastro</h1>
+      
+
+
+  			<form id="frmCadastro" name="frmCadastro" action="valida_cadastro.php" method="post">
+			Nome:<input size="40" name="txtNome" type="text" id="txtNome"/><br />
+			Endere&ccedil;o:<input size="40" name="txtEndereco" type="text" id="txtEndereco"/><br />
+			Cidade:<input size="20" name="txtCidade" type="text" id="txtCidade"/><br />
+			Estado:<input size="20" name="txtEstado" type="text" id="txtEstado"/><br />
+			CEP:<input size="8" name="txtCep" type="text" id="txtCep"/><br />
+			Email:<input size="25" name="txtEmail" type="text" id="txtEmail"/><br />
+			Fone:<input size="10" name="txtFone" type="text" id="txtFone"/><br />
+			CPF:<input size="12" name="txtCpf" type="text" id="txtCpf"/><br /><br />
+            Usu&aacute;rio:<input size="12" name="txtUsuario" type="text" id="txtUsuario"/><br />
+            Senha:<input size="8" name="txtPass" type="password" id="txtPass"/><br /><br />
+
+			<input type="button" value="OK" id="btOk" onclick="ValidarForm2()"/>
+
+			<input type="button" value="Limpar" id="botaoLimpar" onclick="Limpar()"/>
+			
+		    <input type="button" value="Home" onclick="window.location.href='http://localhost/forum/forum.php'"/>
+
+    		</form>
+
+
+</body>
+</html>
