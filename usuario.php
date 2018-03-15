@@ -101,7 +101,7 @@ mysql_close();
         </table>
         <p>&nbsp;</p>
       <p><h4><a href="at.php">Atualizar Cadastro</a> <a  href="logoff.php">Logoff</a></h4></p></td>
-      
+      <a  href="index.php">Listar Usuários</a></h4></p></td>
    </tr>
 </form>
 
