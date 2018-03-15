@@ -14,9 +14,9 @@ Todos os arquivos devem estar na pasta C:\Program Files(x86)\EasyPHP-Devserver-1
 Tabelas:
 ![alt text](https://github.com/jackaw/Forum-em-PHP/blob/master/Tabelas.png?raw=true)
 
-![alt text](https://github.com/jackaw/Forum-em-PHP/blob/master/index.png?raw=true)
+![alt text](https://github.com/jackaw/Forum-em-PHP/blob/master/index.PNG?raw=true)
 
-![alt text](https://github.com/jackaw/Forum-em-PHP/blob/master/Cadastro2.png?raw=true)
+![alt text](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/master/Cadastro2.PNG)
 
 ![alt text](https://github.com/jackaw/Forum-em-PHP/blob/master/Forum3.png?raw=true)
 
