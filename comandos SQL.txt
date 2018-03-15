@@ -1,0 +1,18 @@
+﻿CREATE DATABASE `forum` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+
+
+CREATE TABLE `forum`.`dados_usuario` ( `nome` VARCHAR(70) NOT NULL ,  `endereco` VARCHAR(70) NOT NULL ,  `cidade` VARCHAR(25) NOT NULL ,  `estado` VARCHAR(20) NOT NULL ,  `cep` VARCHAR(10) NOT NULL ,  `email` VARCHAR(35) NOT NULL ,  `fone` VARCHAR(12) NOT NULL ,  `cpf` VARCHAR(12) NOT NULL ,  `usuario` VARCHAR(20) NOT NULL ,  `senha` VARCHAR(16) NOT NULL ) ENGINE = MyISAM;
+
+CREATE  TABLE  `forum_res` (  `question_id` int( 4  )  NOT  NULL DEFAULT  '0',
+ `a_id` int( 4  )  NOT  NULL DEFAULT  '0',
+ `a_name` varchar( 65  )  NOT  NULL DEFAULT  '',
+ `a_answer` longtext NOT  NULL ,
+ `a_datetime` varchar( 25  )  NOT  NULL DEFAULT  '',
+ KEY  `a_id` (  `a_id`  )  ) ENGINE  =  MyISAM  DEFAULT CHARSET  = latin1
+
+CREATE  TABLE  `forum_q` (  `id` int( 4  )  NOT  NULL  AUTO_INCREMENT ,
+ `topic` varchar( 255  )  NOT  NULL DEFAULT  '',
+ `detail` longtext NOT  NULL ,
+ `name` varchar( 65  )  NOT  NULL DEFAULT  '',
+ `datetime` varchar( 25  )  NOT  NULL DEFAULT  '',
+ PRIMARY  KEY (  `id`  )  ) ENGINE  =  MyISAM  DEFAULT CHARSET  = latin1 AUTO_INCREMENT  =36;
