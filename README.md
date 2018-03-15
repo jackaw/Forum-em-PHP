@@ -24,4 +24,4 @@ Tabelas:
 
 ![alt text](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/master/T%C3%B3pico6.PNG)
 
-
+![AAAAAAAAHHHH](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/master/T%C3%B3pico5.PNG)
