@@ -39,7 +39,7 @@
        <input type="button" value="OK" id="botOK" onclick="ValidaForm()"/>
 
 
-        <br /><br /><input type="button" value="Listar Usuarios" onclick="window.location.href='http://127.0.0.1:8888/listar.php'"/>
+       <br /><br /><input type="button" value="Listar Usuarios" onclick="window.location.href='http://localhost/forum/listar.php'"/>
         <input type="button" value="Novo Usuario" onclick="window.location.href='http://localhost/forum/cd.htm'"/>
         <input type="button" value="Postagens" onclick="window.location.href='http://localhost/forum/usuario.php'"/>
         <input type="button" value="Logoff" onclick="window.location.href='http://localhost/forum/logoff.php'"/>
