@@ -10,4 +10,4 @@ O arquivo comandos SQL.txt contém os comandos para criar as 3 tabelas do banco 
 
 Todos os arquivos devem estar na pasta C:\Program Files(x86)\EasyPHP-Devserver-17\eds-www\forum
 
-![alt text](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/branch/Tabelas.png)
+![alt text](https://raw.githubusercontent.com/jackaw/Forum-em-PHP/Tabelas.png)
